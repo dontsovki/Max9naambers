@@ -1,4 +1,6 @@
-﻿int Max(int arq1, int arq2, int arq3)
+﻿//Поищем максимум из 9 чисел
+
+int Max(int arq1, int arq2, int arq3)
 {
     int result = arq1;
     if (arq2 > result) result = arq2;
